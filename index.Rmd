@@ -1,21 +1,16 @@
 ---
-title: "Nome do aluno"
+title: "Lucas Franz Matias"
 output: 
   html_document:
     include:
       after_body: footer.html
 ---
 
-# **Apresentação do aluno**
-Essa é apenas uma página modelo com dados para serem modificados. 
+# Apresentação da Disciplina:
+  A disciplina EPS5141, teve por objetivo proporcionar um primeiro contato com a linguagem R, por meio do Rstudio, demonstrando inicialmente as imensas possibilidades de utilização desta ferramenta, terminando com uma breve introdução aos algorítimos de Machine Learning.
+  Foi uma disciplina ilustrativa, mas ao mesmo tempo proporcionou exercitar na prática a ferramenta, nunca na obrigação de se tornar especialista na área, mas sim de conhecer as suas possibilidades e perder o medo de ferramentas diferentes da que estavamos habituados.
 
-### *Fique à vontade para montar a página de apresentação* 
-
-Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of [markdown](https://daringfireball.net/projects/markdown/) (an easy to write plain text format) with embedded R code chunks that are run so their output can be included in the final document. 
-
-### Seção 2 
-R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).
-
+  
 
 
 ![](images/RMarkdownOutputFormats.png)
