@@ -21,25 +21,50 @@ Essa página apresenta um resumo dos projetos realizado na disciplina **"Anális
 ## Projeto 1
 
 * Título: Análise Exploratória de Dados
-* Data:
-
-### Descrição
-Esse projeto tem como objetivo realizar uma análise exploratória no dados do .....
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 1](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 1](projetos/projeto1.html)
 
 ***
 
 ## Projeto 2
 
-* Título: Regressão linear
-* Data:
-
-### Descrição
-Esse projeto tem como objetivo realizar a previsão de ... usando um modelo de regressão linear .....
+* Título: Regressão linear - Preço dos imóveis
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 2](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 2](projetos/projeto1.html)
+
+
+## Projeto 3
+
+* Título: Regressão linear - Estudo de Caso BluSky
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 3](projetos/projeto1.html)
+
+## Projeto 4
+
+* Título: Decision Trees - Previsão Recém Nascidos
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 4](projetos/projeto1.html)
+
+## Projeto 5
+
+* Título: Regressão Logística - Previsão Recém Nascidos
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 5](projetos/projeto1.html)
+
+## Projeto 6
+
+* Título: Knn Vinhos
+
+### Relatório do Projeto
+
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 6](projetos/projeto1.html)
