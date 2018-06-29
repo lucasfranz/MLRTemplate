@@ -24,7 +24,7 @@ Essa página apresenta um resumo dos projetos realizado na disciplina **"Anális
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 1](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 1](projetos/)
 
 ***
 
@@ -34,7 +34,7 @@ Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Proj
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 2](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 2](projetos/Trabalho_2 Regressão Preço Imóveis.html)
 
 
 ## Projeto 3
@@ -43,7 +43,7 @@ Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Proj
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 3](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 3](projetos/trabalho_3_-_Estudo_de_caso_BlueSky.html)
 
 ## Projeto 4
 
@@ -51,7 +51,7 @@ Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Proj
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 4](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 4](projetos/Trabalho_4_-_Previsão_recem_nascidos_com_baixo_peso.html)
 
 ## Projeto 5
 
@@ -59,7 +59,7 @@ Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Proj
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 5](projetos/projeto1.html)
+Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 5](projetos/Trabalho_5_-_previsão_recem_nascidos_por_regressão_Logística.html)
 
 ## Projeto 6
 
@@ -67,4 +67,4 @@ Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 5](projeto
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 6](projetos/projeto1.html)
+Link no [meu Github](<https://lucasfranz.github.io/MLRTemplate/>) *Pages*: [Projeto 6](projetos/trabalho_6_-_KNN_vinhos.html)
